@@ -6,3 +6,7 @@ export const Title = styled.h1`
   height: 1000px;
   color: white;
 `;
+
+export const Ul = styled.ul`
+  color: blue;
+`;
